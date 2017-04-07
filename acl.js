@@ -66,7 +66,7 @@ let acl = {
  **/
 let requests = {
     alice: new FullSet("Lake Park Summer", "Glen Prairie Lofts"),
-    bob: new FullSet("
+    bob: new FullSet(
         "Lake Islands Autumn",
         "Manor Gardens Place",
         "Rolling Gables Villas",
